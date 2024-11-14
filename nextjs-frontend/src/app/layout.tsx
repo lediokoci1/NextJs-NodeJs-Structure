@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 };
 
 
+
 // Divergent
 
 export default function RootLayout({
